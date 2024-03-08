@@ -1,0 +1,64 @@
+[
+    {
+  "Sunglasses": [
+    {
+      "productId": "1",
+      "Price": 200,
+      "Name": "Blue",
+      "Description": "Elevate your style and shield your eyes with these sleek and sophisticated sunglasses, featuring a captivating blue tint that adds a touch of cool elegance to any look.",
+      "Image" : "./images/blue.jpeg"
+    },
+    {
+        "productId": "2",
+        "Price": 250,
+        "Name": "Classic",
+        "Description": "An embodiment of timeless elegance and modern flair. These sunglasses are a celebration of style and sophistication,featuring exquisite circular lenses and a luxurious gold frame that exudes opulence.",
+        "Image" : "./images/Classic.webp"
+    },
+    {
+        "productId": "3",
+        "Price": 100,
+        "Name": "Murray",
+        "Description": "Embrace the warmth of the sun with these sunglasses featuring a lightweight plastic frame and lenses tinted in a bold and energetic shade of orange.",
+        "Image" : "./images/murray.webp"
+    },
+    {
+        "productId": "4",
+        "Price": 300,
+        "Name": "Red",
+        "Description": "Elevate your style with these sunglasses featuring a sleek and slender metal frame, perfectly complemented by lenses tinted in a striking shade of red.",
+        "Image" : "./images/redGlasses.webp"
+    }
+  ],
+  "Camera" : [
+    {
+      "productId": "1",
+      "Price": 200,
+      "Name": "Professional",
+      "Description": "These cameras are for professional photography!",
+      "Image" : "./images/camera3.jpg"
+    },
+    {
+        "productId": "2",
+        "Price": 75,
+        "Name": "Vintage",
+        "Description": "This camera gives you a early 2000's look for vintage photos",
+        "Image" : "./images/camera2.jpg"
+    },
+    {
+        "productId": "3",
+        "Price": 125,
+        "Name": "Strapped",
+        "Description": "This camera comes with a strap to prevent dropping while maintaining high quality photos.",
+        "Image" : "./images/camera1.jpg"
+    },
+    {
+        "productId": "4",
+        "Price": 125,
+        "Name": "High Quality",
+        "Description": "This camera lense is very high quality and should increase quality of pictures drastically!",
+        "Image" : "./images/camera.jpg"
+    }
+  ]
+}
+]
